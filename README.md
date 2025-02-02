@@ -1,27 +1,28 @@
-NAVIX
 
-Overview  
+# NAVIX
+
+## Overview  
 This repository contains a full-stack application with two backend services and one frontend.
 
 ## Getting Started  
 
 ### Frontend  
 To run the frontend, use the following command:  
-
+```sh
 npm run dev
-
+```
 
 ### Backend 1 (Node.js)  
 To start the Node.js backend, run:  
-
+```sh
 node index.js
-
+```
 
 ### Backend 2 (Python)  
 To start the Python backend, run:  
-
+```sh
 python app.py
-
+```
 
 ## Requirements  
 Ensure you have the required dependencies installed before running the project.
